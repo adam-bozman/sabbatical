@@ -63,12 +63,6 @@ const Contact = ({ data }) => {
           </p>
           <p>
             <label>
-              Subject
-              <input type="text" name="subject" required />
-            </label>
-          </p>
-          <p>
-            <label>
               Message<textarea name="message" required></textarea>
             </label>
           </p>
@@ -80,7 +74,7 @@ const Contact = ({ data }) => {
               }}
               type="submit"
             >
-              Send Message{" "}
+              Enter Sweepstakes{" "}
               <span className="icon -right">
                 <RiSendPlane2Line />
               </span>
