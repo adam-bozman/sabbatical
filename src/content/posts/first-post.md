@@ -13,6 +13,8 @@ That's the ONLY thing about being a slave. OK, if everyone's finished being stup
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
+`youtube: https://www.youtube.com/watch?v=GMJVdhR_5nk&list=PLKtIunYVkv_RpjXAgcKGgR2BFXpgBU7FQ&index=3`
+
 ## It doesn't look so shiny to me.
 
 No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
