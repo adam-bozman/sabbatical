@@ -1,7 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
-import {cheers} from "../assets/cheers.mp4"
 import { GatsbyImage } from "gatsby-plugin-image"
 import { RiArrowRightSLine } from "react-icons/ri"
 import {
@@ -220,6 +219,18 @@ const HomePage = ({ data }) => {
             className="description"
             dangerouslySetInnerHTML={{ __html: html }}
           />
+          <Link
+            to={frontmatter.cta.ctaLink}
+            className="button"
+            sx={{
+              variant: "variants.button",
+            }}
+          >
+            {frontmatter.cta.ctaText}
+            <span className="icon -right">
+              <RiArrowRightSLine />
+            </span>
+          </Link>
           <Link
             to={frontmatter.cta.ctaLink}
             className="button"
