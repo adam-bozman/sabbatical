@@ -8,7 +8,7 @@ Sabbatical imports wine from small family vintners around the globe.  We bring y
 
 Currently, Sabbatical offers two single-grape varieties, a Merlot and a Cabernet Sauvignon.  Our Cabernet Sauvignon comes from Red Mountain Washington.  Hand picked grapes from the smallest and most prestigious appellation in Washington - it's a full bodied red wine with hints of black cherry flavor.  Meanwhile, our Merlot is a younger, more verbose counterpart.  Also from Red Mountain Washington, this batch brings out the dry, medium-palate presence of most merlots - with a little bite at the finish.
 
-![Toys](/assets/market-1.jpg "Toys")
+![Market](/assets/market-1.jpg "Pullman Farmers Market, June 2022")
 
 While we continue working out the logistics of a tasting room and distribution, the best place to find us will be at the [Pullman Farmers Market](https://pullmanfarmersmarket.com/).  We'll be here every week for the 2022 season, and we plan to return in spring of 2023 with a Rosé and Sangiovese blend, both imported from Tuscany (along with our flagship Cab and Merlot, of course).  We hope to see you soon, and please reach out with any questions! 
 
