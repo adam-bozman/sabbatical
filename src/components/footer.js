@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import { Link } from "gatsby"
+/**import { Link } from "gatsby"*/
 import { RiHeart2Line } from "react-icons/ri"
 
 const Footer = () => (
@@ -16,7 +16,7 @@ const Footer = () => (
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        by <Link to="/">[Adam Bozman](https://www.adambozman.com/)</Link>
+        by <a href="https://www.adambozman.com/">Adam Bozman</a>
       </p>
     </div>
   </footer>
