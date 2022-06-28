@@ -63,7 +63,7 @@ const Contact = ({ data }) => {
           </p>
           <p>
             <label>
-              Message (Optional)<textarea name="message" required></textarea>
+              Message<textarea name="message" required></textarea>
             </label>
           </p>
           <p className="text-align-right">
