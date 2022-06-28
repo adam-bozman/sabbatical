@@ -231,18 +231,6 @@ const HomePage = ({ data }) => {
               <RiArrowRightSLine />
             </span>
           </Link>
-          <Link
-            to={frontmatter.cta.ctaLink}
-            className="button"
-            sx={{
-              variant: "variants.button",
-            }}
-          >
-            {frontmatter.cta.ctaText}
-            <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-          </Link>
           <div
             className="social-icons"
             sx={{

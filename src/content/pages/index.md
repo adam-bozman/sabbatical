@@ -3,10 +3,7 @@ template: index-page
 slug: /
 title: Sabbatical Wines
 tagline: We like to make wine, you can thank us later.
-featuredImage: cheers
-cta:
-  ctaText: Learn About Us
-  ctaLink: /about
+featuredImage: /assets/cheers.mp4
 cta:
   ctaText: Learn About Us
   ctaLink: /about
