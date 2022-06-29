@@ -17,7 +17,10 @@ At Sabbatical, we don't want to name any wineries' bottles as 'bad bottles', but
 
 [André Hueston Mack](http://andremack.com/) has accumulated a wealth of knowledge in industry, not to mention his influence outside of those astringent oak smelling rooms (he's best known for expert interviews with celebrities like Kevin Hart).  Like André, we believe wine should be approachable - something to enjoy, stripped of pretension and prestige.  For centuries and accross continents, wine has been at the foundation of culture.  Like cooking, winemaking allows us to engage with people all over the world in ways we otherwise wouldn't have the chance to.  
 
-Anthony Bourdain taught us that food tells a story, "The history of the world is on your plate.  All food is the expression of a long struggle and a long story," an expression we believe manifests itselfs in wine, too.  We'll let André go over the finer points of selecting a great bottle, and we hope you enjoy.  
+Anthony Bourdain taught us that food tells a story, 
+>The history of the world is on your plate.  All food is the expression of a long struggle and a long story.
+
+An expression, we believe, that manifests itself in wine, too.  We'll let André go over the finer points of selecting a great bottle, and we hope you enjoy.  
 
 As you watch, keep in mind these three things:
 
